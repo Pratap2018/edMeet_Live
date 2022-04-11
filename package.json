@@ -1,0 +1,23 @@
+{
+  "name": "edmeet_live",
+  "version": "1.0.0",
+  "description": "A powerfull dynamic backend for live classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratap Mridha",
+  "license": "MIT",
+  "keywords": [
+    "SFU",
+    "Mediasoup"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratap2018/edMeet_Live.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pratap2018/edMeet_Live/issues"
+  },
+  "homepage": "https://github.com/Pratap2018/edMeet_Live#readme"
+}
